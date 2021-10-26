@@ -49,7 +49,6 @@ If you haven't found it yet, there's an online Ingress map. You can browse areas
 ## Useful bots and channels
 There are a number of news channels and bots in Telegram that you might want to look at. Here's a few of our favourites.
 
-* [IngressMosaikBot](https://telegram.me/IngressMosaikBot) - A bot that will show you banner missions near the location you send it
 * [Enlightened Today](https://telegram.me/IEToday) - Enlightened news, facts and fun from around the world
 * [V Bot](https://telegram.me/vtgadminbot) - A bot for V related things
 * [Rocks Bot](https://telegram.me/RocksBot) - A bot for Rocks related things
